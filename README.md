@@ -1,5 +1,8 @@
 # STAIR-CASE-WIRING
 
+Name:Muneeswaran S
+Reg no: 212223080034 
+
 AIM
 To control the status of the given lamp by using two – way switches.
 
